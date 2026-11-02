@@ -2,9 +2,9 @@
   {
     "id": "reels-controller",
     "name": "Reels Controller",
-    "description": "Przewijanie Instagram Reels przyciskiem Glyph Matrix.",
-    "version": "1.0.0",
+    "description": "Scroll through Instagram Reels using the Glyph Matrix button.",
+    "version": "1.0.1",
     "packageName": "com.example.glyphreelscontroller",
-    "downloadUrl": ""
+    "downloadUrl": "https://github.com/Glamorx/Glyph-Screen-Mirror-Addons/raw/refs/heads/main/apks/ReelsController-1.0.0.apk"
   }
 ]
