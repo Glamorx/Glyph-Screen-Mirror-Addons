@@ -1,1 +1,10 @@
-
+[
+  {
+    "id": "reels-controller",
+    "name": "Reels Controller",
+    "description": "Przewijanie Instagram Reels przyciskiem Glyph Matrix.",
+    "version": "1.0.0",
+    "packageName": "com.example.glyphreelscontroller",
+    "downloadUrl": ""
+  }
+]
